@@ -116,3 +116,5 @@ Handle the following custom conversion specifier:
 ### 15. printf
 
 All the above options work well together.
+
+- gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
