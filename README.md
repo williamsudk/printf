@@ -73,9 +73,9 @@ Handle the following conversion specifier: p.
 
 Handle the following flag characters for non-custom conversion specifiers:
 
-- +
+- \+
 - space
-- #
+- \#
 
 ### 8. printf
 
